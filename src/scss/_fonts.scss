@@ -1,32 +1,32 @@
 @font-face {
-	font-family: 'Gotham Pro';
-	src: url('../fonts/GothamPro-Light.eot');
-	src: local('Gotham Pro Light'), local('GothamPro-Light'),
-		url('../fonts/GothamPro-Light.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/GothamPro-Light.woff') format('woff'),
-		url('../fonts/GothamPro-Light.ttf') format('truetype');
-	font-weight: 300;
-	font-style: normal;
+  font-family: "Gotham Pro";
+  src: url("../fonts/GothamPro-Light.eot");
+  src: local("Gotham Pro Light"), local("GothamPro-Light"),
+    url("../fonts/GothamPro-Light.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/GothamPro-Light.woff") format("woff"),
+    url("../fonts/GothamPro-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'Lato';
-    src: url('../fonts/Lato-Regular.eot');
-    src: local('Lato Regular'), local('Lato-Regular'),
-        url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Lato-Regular.woff') format('woff'),
-        url('../fonts/Lato-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+  font-family: "Lato";
+  src: url("../fonts/Lato-Regular.eot");
+  src: local("Lato Regular"), local("Lato-Regular"),
+    url("../fonts/Lato-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Lato-Regular.woff") format("woff"),
+    url("../fonts/Lato-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'Lato Light';
-    src: url('../fonts/Lato-Light.eot');
-    src: local('Lato Light'), local('Lato-Light'),
-        url('../fonts/Lato-Light.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Lato-Light.woff') format('woff'),
-        url('../fonts/Lato-Light.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
+  font-family: "Lato Light";
+  src: url("../fonts/Lato-Light.eot");
+  src: local("Lato Light"), local("Lato-Light"),
+    url("../fonts/Lato-Light.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Lato-Light.woff") format("woff"),
+    url("../fonts/Lato-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
 }

@@ -1,17 +1,29 @@
 $text-color-main: #0d319c;
 $color-white: #fff;
 $color-circle: #f78b1f;
-$url-main-bg: '../img/main-display/main-bg.jpg';
-$url-img-circle: '../img/main-display/circle.png';
-$url-img-arrow: '../img/main-display/arrow-next.png';
-$url-img-glow: '../img/main-display/glow.png';
-$url-img-ice-stone: '../img/therapy-display/ice.png';
-$url-img-link-1: '../img/links-display/link-1.png';
-$url-img-link-2: '../img/links-display/link-2.png';
-$url-img-link-3: '../img/links-display/link-3.png';
-$url-img-link-stone-1: '../img/links-display/ice-1.png';
-$url-img-link-stone-2: '../img/links-display/ice-2.png';
-$url-img-link-stone-3: '../img/links-display/ice-3.png';
-$url-img-cursor-ice: '../img/links-display/cursor.png';
-$radial-gradient: radial-gradient(circle 11px at center, #de791b 0%, #de791b 1%, #cf1437 100%);
-$linear-gradient-range: linear-gradient(to left, #d1eaff , #d1eaff 100%, #808080 100%, #808080 100%);
+$color-layout: #333;
+$url-main-bg: "../img/main-display/main-bg.jpg";
+$url-img-circle: "../img/main-display/circle.png";
+$url-img-arrow: "../img/main-display/arrow-next.png";
+$url-img-glow: "../img/main-display/glow.png";
+$url-img-ice-stone: "../img/therapy-display/ice.png";
+$url-img-link-1: "../img/links-display/link-1.png";
+$url-img-link-2: "../img/links-display/link-2.png";
+$url-img-link-3: "../img/links-display/link-3.png";
+$url-img-link-stone-1: "../img/links-display/ice-1.png";
+$url-img-link-stone-2: "../img/links-display/ice-2.png";
+$url-img-link-stone-3: "../img/links-display/ice-3.png";
+$url-img-cursor-ice: "../img/links-display/cursor.png";
+$radial-gradient: radial-gradient(
+  circle 11px at center,
+  #de791b 0%,
+  #de791b 1%,
+  #cf1437 100%
+);
+$linear-gradient-range: linear-gradient(
+  to left,
+  #d1eaff,
+  #d1eaff 100%,
+  #808080 100%,
+  #808080 100%
+);

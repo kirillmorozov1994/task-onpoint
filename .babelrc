@@ -1,15 +1,15 @@
 {
-	"presets":[[
-		"@babel/env",
-		{
-			"debug": true,
-			"useBuiltIns": "usage",
-			"corejs": "3.6.5",
-			"modules": false,
-			"targets": [
-				"last 2 chrome versions"
-			]
-		}
-	]],
-	"plugins": ["@babel/proposal-class-properties"]
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "debug": true,
+        "useBuiltIns": "usage",
+        "corejs": "3.6.5",
+        "modules": false,
+        "targets": ["last 2 chrome versions"]
+      }
+    ]
+  ],
+  "plugins": ["@babel/proposal-class-properties"]
 }
